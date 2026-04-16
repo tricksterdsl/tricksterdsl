@@ -1,16 +1,16 @@
-## Hi there 👋
+# Gabriel Oliveira
 
-<!--
-**tricksterdsl/tricksterdsl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Engineer focado em automação de pipelines e otimização logística.
 
-Here are some ideas to get you started:
+## Projetos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔹 ETL Pipeline - Transportes  
+Pipeline com ingestão via HTTP, tratamento em pandas e carga em PostgreSQL (quase tempo real)  
+👉 https://github.com/tricksterdsl/SEU_REPO
+
+🔹 Sinergia de Rotas  
+Análise de proximidade entre pontos para identificar oportunidades de otimização logística  
+👉 https://github.com/tricksterdsl/SEU_REPO
+
+## Stack
+Python • SQL • PostgreSQL • Pandas • ETL
