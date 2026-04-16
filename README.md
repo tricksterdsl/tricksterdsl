@@ -1,16 +1,25 @@
-# Gabriel Oliveira
+# 👋 Gabriel Oliveira
 
-Data Engineer focado em automação de pipelines e otimização logística.
+## 🛠️ Data Engineer  
 
-## Projetos
+Automating ETL pipelines 🔄 and optimizing logistics operations 🚚  
+Also working with data analysis 📊, KPI management 📈, and business dashboards to support decision-making.
 
-🔹 ETL Pipeline - Transportes  
-Pipeline com ingestão via HTTP, tratamento em pandas e carga em PostgreSQL (quase tempo real)  
-👉 https://github.com/tricksterdsl/SEU_REPO
+---
 
-🔹 Sinergia de Rotas  
-Análise de proximidade entre pontos para identificar oportunidades de otimização logística  
-👉 https://github.com/tricksterdsl/SEU_REPO
+## 🚀 What I do
+- Build and automate ETL pipelines 🔄  
+- Analyze data and generate insights 📊  
+- Create KPI tracking and performance metrics 📈  
+- Develop dashboards for operational visibility 📺  
+- Improve logistics efficiency through data 🚚  
 
-## Stack
-Python • SQL • PostgreSQL • Pandas • ETL
+---
+
+## 🧰 Stack
+Python • SQL • PostgreSQL • Pandas • ETL  
+
+---
+
+## 🎯 Focus
+Turning raw data into actionable decisions.
