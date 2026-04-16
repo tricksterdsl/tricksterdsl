@@ -17,8 +17,7 @@ Also working with data analysis 📊, KPI management 📈, and business dashboar
 ---
 
 ## 🧰 Stack
-Python • SQL • PostgreSQL • Pandas • ETL  
-
+Python • SQL • PostgreSQL • Pandas • ETL  • Sreamlit  • Cloud
 ---
 
 ## 🎯 Focus
