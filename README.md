@@ -7,7 +7,7 @@ Also working with data analysis 📊, KPI management 📈, and business dashboar
 
 ---
 
-## 🚀 What I do
+## 🚀 Skills
 - Build and automate ETL pipelines 🔄  
 - Analyze data and generate insights 📊  
 - Create KPI tracking and performance metrics 📈  
